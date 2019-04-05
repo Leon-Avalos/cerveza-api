@@ -106,8 +106,5 @@ namespace cervezaApi.Controllers
             //Crea un response vacio y lo retorna
             return NoContent();
         }
-
-
-
     }
 }
