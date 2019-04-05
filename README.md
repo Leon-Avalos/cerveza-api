@@ -32,3 +32,8 @@ Con esta API Rest podras consultar informacion basica sobre la cerveza tal como:
 4. Una vez compilado el proyecto ejectuta ``` dotnet run ```
 
 
+## Trabajar con la API
+
+Si la compilacion y ejecucion fue exitosa accede a: ```  http://localhost:5000/api/cervezas ```
+
+
