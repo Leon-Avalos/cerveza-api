@@ -1,4 +1,4 @@
-# Api de cervezas
+# Api Rest de cervezas
 
 ## Descripcion
 
@@ -10,6 +10,12 @@ Con esta API Rest podras consultar informacion basica sobre la cerveza tal como:
 * Fabricante
 * Porcentaje de alcohol
 * Presentacion en mililitros
+
+## Metodos HTTP soportados
+- GET
+- POST 
+- PUT
+- DELETE
 
 
 
