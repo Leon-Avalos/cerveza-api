@@ -12,8 +12,13 @@ Con esta API Rest podras consultar informacion basica sobre la cerveza tal como:
 * Presentacion en mililitros
 
 ## Arquitectura
+
 Nuestra API utiliza la arquitectura MVC de ASPNet Core.
-![Arquitectura de la aplicacion Web](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api/_static/architecture.png?view=aspnetcore-2.2)
+
+<p align="center">
+  <img width="460" height="300" src="(https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api/_static/architecture.png?view=aspnetcore-2.2">
+</p>
+
 
 ## Metodos HTTP soportados
 - GET
